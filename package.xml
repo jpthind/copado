@@ -679,31 +679,6 @@
     <members>Account.Type</members>
     <members>Account.Website</members>
     <members>Account.YearStarted</members>
-    <members>ActiveScratchOrg.CreatedById</members>
-    <members>ActiveScratchOrg.CreatedDate</members>
-    <members>ActiveScratchOrg.Description</members>
-    <members>ActiveScratchOrg.Edition</members>
-    <members>ActiveScratchOrg.ExpirationDate</members>
-    <members>ActiveScratchOrg.Features</members>
-    <members>ActiveScratchOrg.HasSampleData</members>
-    <members>ActiveScratchOrg.Id</members>
-    <members>ActiveScratchOrg.IsDeleted</members>
-    <members>ActiveScratchOrg.LastLoginDate</members>
-    <members>ActiveScratchOrg.LastModifiedById</members>
-    <members>ActiveScratchOrg.LastModifiedDate</members>
-    <members>ActiveScratchOrg.LastReferencedDate</members>
-    <members>ActiveScratchOrg.LastViewedDate</members>
-    <members>ActiveScratchOrg.Name</members>
-    <members>ActiveScratchOrg.Namespace</members>
-    <members>ActiveScratchOrg.OrgName</members>
-    <members>ActiveScratchOrg.OwnerId</members>
-    <members>ActiveScratchOrg.ScratchOrg</members>
-    <members>ActiveScratchOrg.ScratchOrgInfoId</members>
-    <members>ActiveScratchOrg.SignupEmail</members>
-    <members>ActiveScratchOrg.SignupInstance</members>
-    <members>ActiveScratchOrg.SignupTrialDays</members>
-    <members>ActiveScratchOrg.SignupUsername</members>
-    <members>ActiveScratchOrg.SystemModstamp</members>
     <members>Activity.DB_Days__c</members>
     <members>Activity.external_id__c</members>
     <members>Asset.AccountId</members>
@@ -1750,16 +1725,6 @@
     <members>Macro.StartingContext</members>
     <members>Macro.SystemModstamp</members>
     <members>Metric.OrigMetricId__c</members>
-    <members>NamespaceRegistry.CreatedById</members>
-    <members>NamespaceRegistry.CreatedDate</members>
-    <members>NamespaceRegistry.Id</members>
-    <members>NamespaceRegistry.IsDeleted</members>
-    <members>NamespaceRegistry.LastModifiedById</members>
-    <members>NamespaceRegistry.LastModifiedDate</members>
-    <members>NamespaceRegistry.Name</members>
-    <members>NamespaceRegistry.NamespaceOrg</members>
-    <members>NamespaceRegistry.NamespacePrefix</members>
-    <members>NamespaceRegistry.SystemModstamp</members>
     <members>NetworkMember.CreatedById</members>
     <members>NetworkMember.CreatedDate</members>
     <members>NetworkMember.DefaultGroupNotificationFrequency</members>
@@ -2187,44 +2152,6 @@
     <members>QuoteLineItem.SystemModstamp</members>
     <members>QuoteLineItem.TotalPrice</members>
     <members>QuoteLineItem.UnitPrice</members>
-    <members>ScratchOrgInfo.AdminEmail</members>
-    <members>ScratchOrgInfo.AuthCode</members>
-    <members>ScratchOrgInfo.ConnectedAppCallbackUrl</members>
-    <members>ScratchOrgInfo.ConnectedAppConsumerKey</members>
-    <members>ScratchOrgInfo.CreatedById</members>
-    <members>ScratchOrgInfo.CreatedDate</members>
-    <members>ScratchOrgInfo.DeletedBy</members>
-    <members>ScratchOrgInfo.DeletedDate</members>
-    <members>ScratchOrgInfo.Description</members>
-    <members>ScratchOrgInfo.DurationDays</members>
-    <members>ScratchOrgInfo.Edition</members>
-    <members>ScratchOrgInfo.ErrorCode</members>
-    <members>ScratchOrgInfo.ExpirationDate</members>
-    <members>ScratchOrgInfo.Features</members>
-    <members>ScratchOrgInfo.HasSampleData</members>
-    <members>ScratchOrgInfo.Id</members>
-    <members>ScratchOrgInfo.Instance</members>
-    <members>ScratchOrgInfo.IsDeleted</members>
-    <members>ScratchOrgInfo.Language</members>
-    <members>ScratchOrgInfo.LastLoginDate</members>
-    <members>ScratchOrgInfo.LastModifiedById</members>
-    <members>ScratchOrgInfo.LastModifiedDate</members>
-    <members>ScratchOrgInfo.LastReferencedDate</members>
-    <members>ScratchOrgInfo.LastViewedDate</members>
-    <members>ScratchOrgInfo.Name</members>
-    <members>ScratchOrgInfo.Namespace</members>
-    <members>ScratchOrgInfo.OrgName</members>
-    <members>ScratchOrgInfo.OwnerId</members>
-    <members>ScratchOrgInfo.Package2AncestorIds</members>
-    <members>ScratchOrgInfo.ScratchOrg</members>
-    <members>ScratchOrgInfo.SignupEmail</members>
-    <members>ScratchOrgInfo.SignupInstance</members>
-    <members>ScratchOrgInfo.SignupLanguage</members>
-    <members>ScratchOrgInfo.SignupTrialDays</members>
-    <members>ScratchOrgInfo.SignupUsername</members>
-    <members>ScratchOrgInfo.Status</members>
-    <members>ScratchOrgInfo.SystemModstamp</members>
-    <members>ScratchOrgInfo.Username</members>
     <members>ServiceContract.AccountId</members>
     <members>ServiceContract.ActivationDate</members>
     <members>ServiceContract.ApprovalStatus</members>
@@ -4942,7 +4869,6 @@
   <types>
     <members>Account</members>
     <members>AccountContactRole</members>
-    <members>ActiveScratchOrg</members>
     <members>Activity</members>
     <members>Asset</members>
     <members>AssetRelationship</members>
@@ -4990,7 +4916,6 @@
     <members>Macro</members>
     <members>MacroAction</members>
     <members>MacroInstruction</members>
-    <members>NamespaceRegistry</members>
     <members>NetworkMember</members>
     <members>Opportunity</members>
     <members>OpportunityCompetitor</members>
@@ -5020,7 +4945,6 @@
     <members>Scorecard</members>
     <members>ScorecardAssociation</members>
     <members>ScorecardMetric</members>
-    <members>ScratchOrgInfo</members>
     <members>ServiceContract</members>
     <members>Site</members>
     <members>SocialPersona</members>
@@ -5274,7 +5198,6 @@
     <members>copado__User_Story__c</members>
     <members>copado__Work_Manager</members>
     <members>standard-Account</members>
-    <members>standard-ActiveScratchOrg</members>
     <members>standard-AppLauncher</members>
     <members>standard-Asset</members>
     <members>standard-Calibration</members>
@@ -5308,7 +5231,6 @@
     <members>standard-LiveChatTranscript</members>
     <members>standard-LiveChatVisitor</members>
     <members>standard-Macro</members>
-    <members>standard-NamespaceRegistry</members>
     <members>standard-Opportunity</members>
     <members>standard-Order</members>
     <members>standard-OtherUserProfile</members>
@@ -5324,7 +5246,6 @@
     <members>standard-QuickText</members>
     <members>standard-Quote</members>
     <members>standard-Recognition</members>
-    <members>standard-ScratchOrgInfo</members>
     <members>standard-ServiceContract</members>
     <members>standard-Sites</members>
     <members>standard-SocialPersona</members>
@@ -5361,18 +5282,10 @@
   </types>
   <types>
     <members>Communities_Shared_Document_Folder</members>
-    <members>Communities_Shared_Document_Folder/Footer.html</members>
-    <members>Communities_Shared_Document_Folder/cirrus_png.png</members>
-    <members>Communities_Shared_Document_Folder/cirrus_png1.png</members>
     <members>Logos_Icons</members>
-    <members>Logos_Icons/Company_Logo.png</members>
-    <members>Logos_Icons/Customer_Community_Logo.png</members>
-    <members>Logos_Icons/Partner_Community_Logo.png</members>
     <members>SharedDocuments</members>
     <members>SocialService__Social_Customer_Service</members>
-    <members>SocialService__Social_Customer_Service/SocialService__readme.txt</members>
     <members>copado__Copado</members>
-    <members>copado__Copado/copado__Copado_Logo.png</members>
     <name>Document</name>
   </types>
   <types>
@@ -5651,8 +5564,6 @@
     <members>Account.AllAccounts</members>
     <members>Account.MyAccounts</members>
     <members>Account.NewThisWeek</members>
-    <members>ActiveScratchOrg.All_Active_Scratch_Orgs</members>
-    <members>ActiveScratchOrg.My_Active_Scratch_Orgs</members>
     <members>Activity.MyActivities</members>
     <members>Activity.MyDelegatedActivities</members>
     <members>Activity.MyTeamsActivities</members>
@@ -5687,7 +5598,6 @@
     <members>Lead.AllOpenLeads</members>
     <members>Lead.MyUnreadLeads</members>
     <members>Lead.TodaysLeads</members>
-    <members>NamespaceRegistry.All_Namespace_Registries</members>
     <members>Opportunity.AllOpportunities</members>
     <members>Opportunity.ClosingNextMonth</members>
     <members>Opportunity.ClosingThisMonth</members>
@@ -5710,8 +5620,6 @@
     <members>Quote.mine</members>
     <members>Scorecard.AllScorecards</members>
     <members>Scorecard.MyScorecards</members>
-    <members>ScratchOrgInfo.All_Scratch_Org_Infos</members>
-    <members>ScratchOrgInfo.My_Scratch_Org_Infos</members>
     <members>ServiceContract.All_ServiceContracts</members>
     <members>SocialPersona.AllSocialPersonas</members>
     <members>SocialPost.AllSocialPosts</members>
@@ -6148,7 +6056,6 @@
     <members>Order</members>
     <members>OrgPreference</members>
     <members>PathAssistant</members>
-    <members>PersonalJourney</members>
     <members>Product</members>
     <members>Quote</members>
     <members>Search</members>
