@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <email>tier3@example.com</email>
+    <name>Tier 3 Queue</name>
+    <queueMembers>
+        <users>
+            <user>admin@googlecloud.capado</user>
+            <user>bill.hzx4h3ctu4la.rybr39nnxu1l.jjb9sa88lbq8@googlecloud.capado</user>
+            <user>cindy.foqthdcitv9k.idaogc5xudzv.p9g3vhouesro@googlecloud.capado</user>
+            <user>customer.qulfmaf3gjwb.ounhjmen86pn.a84iftlmfxop@googlecloud.capado</user>
+            <user>elliot.6eioscyn4zd1.cbockvwbmef4.twri7waeemdy@googlecloud.capado</user>
+            <user>ely.n5hhq0lbfay4.xwwbrnli3m6b.ghbwggpphkr7@googlecloud.capado</user>
+            <user>partner.rlhrsdw5odis.nz1oqjky6nhz.trmydaislyws@googlecloud.capado</user>
+            <user>quinton.ogzpogqekczi.zkl7pwfz79aa.c3m6hfdcgwxb@googlecloud.capado</user>
+            <user>sue.9afdirlighit.mfjhbnonkn8t.bpbrhvswezbp@googlecloud.capado</user>
+            <user>tim.eyq67hwdf6du.vov0wyuiqxzv.donko2g2geui@googlecloud.capado</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+</Queue>
