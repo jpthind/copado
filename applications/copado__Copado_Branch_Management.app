@@ -4,7 +4,6 @@
     <description>This application allows customers to keep their Git branches in sync with the corresponding Salesforce environments.</description>
     <formFactors>Large</formFactors>
     <label>Copado Branch Management</label>
-    <logo>copado__Copado/copado__Copado_Logo.png</logo>
     <tabs>copado__Deployment_Flow__c</tabs>
     <tabs>copado__Git_Repository__c</tabs>
     <tabs>copado__Git_Backup__c</tabs>

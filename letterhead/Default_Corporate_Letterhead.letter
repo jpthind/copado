@@ -18,7 +18,6 @@
         <backgroundColor>#FFFFFF</backgroundColor>
         <height>50</height>
         <horizontalAlignment>Left</horizontalAlignment>
-        <logo>Logos_Icons/Company_Logo.png</logo>
         <verticalAlignment>Top</verticalAlignment>
     </header>
     <middleLine>
