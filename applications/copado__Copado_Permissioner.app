@@ -3,7 +3,6 @@
     <defaultLandingTab>copado__Persona__c</defaultLandingTab>
     <formFactors>Large</formFactors>
     <label>Copado Permissioner</label>
-    <logo>copado__Copado/copado__Copado_Logo.png</logo>
     <tabs>copado__Persona__c</tabs>
     <tabs>copado__Permission_Set_Explorer</tabs>
 </CustomApplication>

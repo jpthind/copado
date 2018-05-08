@@ -27,6 +27,14 @@
                 <outputField>Email</outputField>
             </mappingFields>
             <mappingFields>
+                <inputField>City</inputField>
+                <outputField>MailingCity</outputField>
+            </mappingFields>
+            <mappingFields>
+                <inputField>Street</inputField>
+                <outputField>MailingStreet</outputField>
+            </mappingFields>
+            <mappingFields>
                 <inputField>PostalCode</inputField>
                 <outputField>MailingPostalCode</outputField>
             </mappingFields>
@@ -37,14 +45,6 @@
             <mappingFields>
                 <inputField>Company</inputField>
                 <outputField>AccountId</outputField>
-            </mappingFields>
-            <mappingFields>
-                <inputField>City</inputField>
-                <outputField>MailingCity</outputField>
-            </mappingFields>
-            <mappingFields>
-                <inputField>Street</inputField>
-                <outputField>MailingStreet</outputField>
             </mappingFields>
             <outputObject>Contact</outputObject>
         </objectMapping>
