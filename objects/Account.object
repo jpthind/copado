@@ -305,6 +305,35 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Strategic_Type__c</fullName>
+        <externalId>false</externalId>
+        <label>Strategic Type</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Top 10</fullName>
+                    <default>false</default>
+                    <label>Top 10</label>
+                </value>
+                <value>
+                    <fullName>Top 100</fullName>
+                    <default>false</default>
+                    <label>Top 100</label>
+                </value>
+                <value>
+                    <fullName>Top 1000</fullName>
+                    <default>false</default>
+                    <label>Top 1000</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
